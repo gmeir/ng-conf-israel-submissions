@@ -8,7 +8,7 @@ Gil Meir
 ### Biography
 
 Gil is the CTO of Spectory, a software company building web and mobile apps for entrepreneurs and companies.
-He has been progamming for as long as he can remember and building large scale AngularJS apps for over 3 years.
+He has been programming for as long as he can remember and building large scale AngularJS apps for over 3 years.
 
 ### Speaker Details
 
@@ -29,7 +29,7 @@ State management and deep-linking with statecharts
 
 The state of an AngularJS app is spread across multiple scopes and services making it difficult
 to reason about and causing hard to detect bugs. David Harel Statecharts make state explicit and
-easier to manage. In this talk we will explore statecharts as a means of managing app states with
+easier to manage. In this talk we will explore statechart.js as a means of managing app states with
 the added benefit of providing deep-linking as an alternative to ngRoute and ui-router.
 
 ### Session Meta Data
